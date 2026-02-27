@@ -1,0 +1,4 @@
+product_id,warehouse_location,stock_qty,restock_date
+101,Indore,25,2024-06-10
+102,Bhopal,5,2024-06-15
+103,Indore,0,2024-06-20
